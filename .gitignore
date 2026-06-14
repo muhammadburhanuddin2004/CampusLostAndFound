@@ -1,0 +1,8 @@
+# JetBrains Rider / IntelliJ files
+.idea/
+.DS_Store
+
+# .NET Build and Publish outputs
+**/bin/
+**/obj/
+**/publish/
