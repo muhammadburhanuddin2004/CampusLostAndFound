@@ -6,3 +6,8 @@
 **/bin/
 **/obj/
 **/publish/
+
+**/node_modules/
+**/.expo/
+**/android/build/
+**/ios/Pods/
